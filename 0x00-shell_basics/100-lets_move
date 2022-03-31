@@ -1,0 +1,2 @@
+#!/bin/bash
+mv scr/*[A-Z]* /tmp/u

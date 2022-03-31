@@ -1,2 +1,2 @@
-#!/bin/baash
+#!/bin/bash
 ls -la -m -p

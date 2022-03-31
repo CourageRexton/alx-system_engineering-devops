@@ -1,2 +1,3 @@
 #!/bin
 ls -ls .. /root /boot
+ls -la .. /root /boot

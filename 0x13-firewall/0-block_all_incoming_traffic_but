@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+apt install ufw
+ufw allow 22
+ufw allow 443
+ufw allow 80
+echo 'y' | ufw enable
